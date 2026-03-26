@@ -31,9 +31,9 @@
 
 ## 🔥Current Focus 
 -📌Mastering  Data Structures & Algorithms 
--📌Building Backend Projects With Springboot
--📌Contributing to open Source
--📌Improving Problem solving Skills 
+📌Building Backend Projects With Springboot
+📌Contributing to open Source
+📌Improving Problem solving Skills 
 
 ---
 
