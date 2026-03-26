@@ -7,10 +7,10 @@
 
 ## 🚀 About Me 
 - 🎓3rd Year Computer Science Student
-- Currently Learning **Java, DSA, SpringBoot**
-- Interested in **Backend Development & Sytems Desighn**
-- Preparing for **Internships & Product-based Companies**
-- Goal: Become a **Top Software Engineer & build impactful products**
+- 💡Currently Learning **Java, DSA, SpringBoot**
+- 🛠️Interested in **Backend Development & Sytems Desighn**
+- 📈Preparing for **Internships & Product-based Companies**
+- ⚡Goal: Become a **Top Software Engineer & build impactful products**
 
 ---
 
