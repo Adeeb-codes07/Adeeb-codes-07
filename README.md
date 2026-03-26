@@ -45,7 +45,7 @@ https://www.linkedin.com/in/peer-mohammed-adeeb-45a8aa333/
 ---
 
 ## ⚡Fun Fact
-I Enjoy turning Complex backend Problems into Simple, Scalable Solutions 
+I Enjoy turning Complex backend Problems into Simple, Scalable Solutions.
 
 
 
